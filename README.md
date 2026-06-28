@@ -2,6 +2,8 @@
 
 一个从零实现的 OpenGL 渲染框架，支持实例化草地、实时风力系统、Shadow Map、PBR 材质、NPR 卡通渲染。
 
+![screenshot](screenshot.png)
+
 ## 功能
 
 - **自研渲染架构**：Material-Scene-Mesh-Renderer 分层体系，8+ 种材质自动 Shader 分发
