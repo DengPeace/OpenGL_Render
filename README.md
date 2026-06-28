@@ -28,6 +28,10 @@
 - C++17
 - OpenGL 3.3 Core
 
+## 性能
+
+在 MacBook Air M1 上渲染，约 50-70 FPS（2500 株实例化草地 + Shadow Map）。
+
 ## 参考
 
 - LearnOpenGL
